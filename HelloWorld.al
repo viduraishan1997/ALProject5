@@ -10,6 +10,6 @@ pageextension 70100 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('App published: Hello world this is for code test purpose');
+        Message('App published: Hello world this is for code test purpose \ this is change in new-test-branch-from-main');
     end;
 }
