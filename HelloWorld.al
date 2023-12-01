@@ -12,5 +12,6 @@ pageextension 70100 CustomerListExt extends "Customer List"
     begin
         Message('App published: Hello vidura');
         // Add this edit to newbranch1
+        //edit the newbranch1
     end;
 }
