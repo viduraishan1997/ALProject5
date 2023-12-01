@@ -10,6 +10,9 @@ pageextension 70100 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('App published: Hello vidura');
+        Message('Hello vidura world');
+        // Add this edit to newbranch1
+        //edit the newbranch1
+
     end;
 }
